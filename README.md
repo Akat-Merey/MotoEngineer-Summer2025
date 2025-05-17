@@ -12,4 +12,3 @@ This repository documents my summer learning project:
 
 - `TheoryNotes/` — My summary notes per chapter/topic
 - `CAD-Models/` — Real parts modeled after studying chapters
-- `screenshots/` — Visuals for documentation and portfolio
